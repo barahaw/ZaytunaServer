@@ -4,8 +4,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "node --watch server.js",
-    "postinstall": "npm rebuild --build-from-source=sqlite3"
+    "dev": "node --watch server.js"
   },
   "keywords": [],
   "author": "",
